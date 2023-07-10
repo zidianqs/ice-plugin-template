@@ -1,0 +1,5 @@
+# <plugin-name>
+
+## Install
+
+## Usage
